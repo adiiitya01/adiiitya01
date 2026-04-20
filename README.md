@@ -101,7 +101,7 @@ Looking for opportunities in:
 ## 🤝 Connect With Me
 
 <p>
-<a href="www.linkedin.com/in/aditya-udugade-28147b345">
+<a href="https://www.linkedin.com/in/aditya-udugade-28147b345">
 <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Udugade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
