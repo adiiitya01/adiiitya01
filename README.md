@@ -41,7 +41,7 @@ I focus on identifying real-world vulnerabilities and building tools to automate
 - Python (Security Automation)
 - HTML, CSS, JavaScript
 - Flask
-
+- SQL 
 ---
 
 ## 🚀 Featured Projects
