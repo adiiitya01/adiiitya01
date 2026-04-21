@@ -56,7 +56,7 @@ I focus on identifying real-world vulnerabilities and building tools to automate
 - Generates structured HTML reports
 - Includes dashboard UI
 
-👉 *Tech Stack:* Python, Flask, HTML, CSS
+👉 *Tech Stack:* Python, Flask, HTML, CSS, SQL, JS
 
 ---
 
