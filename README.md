@@ -64,6 +64,7 @@ Web Development    : HTML, CSS, JavaScript
 Backend            : Python, Flask, MySQL
 Cybersecurity      : VAPT, OWASP Top 10, Web Security
 Tools              : Kali Linux, Burp Suite, Nmap, Metasploit
+```
 
 🔥 Featured Projects
 🤖 AI Chatbot Web Application
