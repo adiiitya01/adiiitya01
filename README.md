@@ -68,44 +68,52 @@ Tools              : Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark
 ```
 
 
-### 🔥 Featured Projects
-🤖 AI Chatbot Web Application
+## 🔥 Featured Projects
+
+### 🤖 AI Chatbot Web Application
 
 Full-stack chatbot built using Flask, JavaScript, authentication, and chat handling.
 
-♻️ ReUse Market
+
+### ♻️ ReUse Market
 
 Marketplace web application with dashboard, listings, chat system, and admin panel.
 
-🔍 Web Vulnerability Scanner
+
+### 🔍 Web Vulnerability Scanner
 
 Python-based scanner for detecting common web vulnerabilities.
 
-📡 Packet Sniffer
+
+### 📡 Packet Sniffer
 
 Network traffic analysis tool built using Python.
 
-🌐 Portfolio Website
+
+### 🌐 Portfolio Website
 
 Personal portfolio showcasing skills and projects.
 
-📘 Ethical Hacking E-Learning Website
+
+### 📘 Ethical Hacking E-Learning Website
 
 Frontend platform providing structured cybersecurity learning topics.
 
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adiiitya01&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiiitya01&theme=tokyonight&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiitya01&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
 
 
-🌱 Currently Learning
+
+
+## 🌱 Currently Learning
 Advanced Web Security
 API Security Testing
 Bug Bounty Hunting
 Python Security Automation
 
 
-🎯 Career Focus
+## 🎯 Career Focus
 
 I am actively looking for opportunities in:
 
@@ -115,10 +123,10 @@ VAPT Analyst
 Junior Penetration Tester
 
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 <p> <a href="https://www.linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Udugade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/adiiitya01"> <img src="https://img.shields.io/badge/GitHub-adiiitya01-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://adiiitya01.github.io/MY---Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> </p>
 
 
-💬 Motto
+## 💬 Motto
 
 "Build. Break. Learn. Secure. Repeat."
