@@ -99,6 +99,7 @@ Personal portfolio showcasing skills and projects.
 
 Frontend platform providing structured cybersecurity learning topics.
 
+---
 
 
 ## 📈 GitHub Stats
@@ -106,6 +107,7 @@ Frontend platform providing structured cybersecurity learning topics.
 
 
 
+---
 
 
 ## 🌱 Currently Learning
@@ -114,6 +116,7 @@ API Security Testing
 Bug Bounty Hunting
 Python Security Automation
 
+---
 
 
 ## 🎯 Career Focus
@@ -125,12 +128,14 @@ Cybersecurity Analyst
 VAPT Analyst
 Junior Penetration Tester
 
+---
 
 
 ## 🤝 Connect With Me
 <p> <a href="https://www.linkedin.com/in/aditya-udugade-28147b345/"> <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Udugade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> <a href="https://github.com/adiiitya01"> <img src="https://img.shields.io/badge/GitHub-adiiitya01-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://adiiitya01.github.io/MY---Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> </p>
 
+---
 
 ## 💬 Motto
 
