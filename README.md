@@ -33,7 +33,7 @@
 - 🛡️ Passionate about Cybersecurity & Ethical Hacking  
 - 💻 Building real-world projects in Web Development & Security  
 - 📍 Mumbai, India  
-- 🎯 Targeting roles: **SOC Analyst | Cybersecurity Analyst | VAPT**
+- 🎯 Targeting roles: **SOC Analyst | Cybersecurity Analyst | VAPT Analyst**
 
 <br clear="right"/>
 
@@ -63,7 +63,7 @@
 Web Development    : HTML, CSS, JavaScript
 Backend            : Python, Flask, MySQL
 Cybersecurity      : VAPT, OWASP Top 10, Web Security
-Tools              : Kali Linux, Burp Suite, Nmap, Metasploit
+Tools              : Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark
 
 ```
 
@@ -96,19 +96,19 @@ Frontend platform providing structured cybersecurity learning topics.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adiiitya01&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiiitya01&theme=tokyonight&hide_border=true" height="170" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiitya01&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
 🌱 Currently Learning
 Advanced Web Security
-API Security
+API Security Testing
 Bug Bounty Hunting
 Python Security Automation
 🎯 Career Focus
 
-Looking for opportunities in:
+I am actively looking for opportunities in:
 
 SOC Analyst
 Cybersecurity Analyst
 VAPT Analyst
 Junior Penetration Tester
 🤝 Connect With Me
-<a href="https://www.linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Udugade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/adiiitya01"> <img src="https://img.shields.io/badge/GitHub-adiiitya01-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://adiiitya01.github.io/MY---Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a>
+<p> <a href="https://www.linkedin.com/in/"> <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Udugade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/adiiitya01"> <img src="https://img.shields.io/badge/GitHub-adiiitya01-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://adiiitya01.github.io/MY---Portfolio/"> <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> </p>
 💬 Motto
 
 "Build. Break. Learn. Secure. Repeat."
