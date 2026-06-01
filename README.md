@@ -150,7 +150,7 @@ My objective is to establish myself as a trusted **Cybersecurity professional** 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-udugade-28147b345">LinkedIn</a> • 
   <a href="https://github.com/adiiitya01">GitHub</a> • 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="adityaudugade0@gmail.com">Email</a>
 </p>
 
 ---
