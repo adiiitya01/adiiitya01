@@ -2,7 +2,7 @@
 
 # 🛡️ Aditya Udugade
 
-### Cybersecurity Specialist | Web Application Security Analyst | Security Automation Engineer
+### Cybersecurity Analyst | Web Application Security Analyst | Soc Analyst
 
 </div>
 
