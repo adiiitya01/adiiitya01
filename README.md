@@ -144,7 +144,7 @@ Working toward establishing myself as a reliable cybersecurity professional who 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-udugade-28147b345">LinkedIn</a> • 
   <a href="https://github.com/adiiitya01">GitHub</a> • 
-  <a href="mailto:adityaudugade0@gmail.com">Email</a>
+  <a href="mailto:udugadeaditya350@gmail.com">Email</a>
 </p>
 
 <div align="center">
