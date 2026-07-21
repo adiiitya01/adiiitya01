@@ -2,107 +2,102 @@
 
 # 🛡️ Aditya Udugade
 
-### Cybersecurity Analyst | Web Application Security Analyst | Soc Analyst
+### SOC Analyst | Web Application Security Analyst | VAPT Specialist
 
 </div>
 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-udugade-28147b345"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/adiiitya01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-green?style=for-the-badge" alt="Role">
+  <a href="mailto:adityaudugade0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## 👨‍💼 About Me
 
-Cybersecurity specialist with hands-on expertise in **Web Application Security**, **Vulnerability Assessment & Penetration Testing (VAPT)**, and **Security Automation**. I am committed to identifying and mitigating real-world vulnerabilities through methodical analysis and automated security tools.
+Cybersecurity professional with hands-on experience in **SOC monitoring & incident triage**, **web application security**, and **vulnerability assessment & penetration testing (VAPT)**. I build practical detection and security automation tools, and document my work the way a real analyst would — from raw log to verdict.
 
 **Currently seeking opportunities as:**
-- Security Analyst / Cybersecurity Analyst
-- Penetration Testing (VAPT) Specialist
-- Security Operations Center (SOC) Analyst
+- 🔎 SOC Analyst (L1)
+- 🛡️ Cybersecurity / Security Analyst
+- 🎯 VAPT / Penetration Testing Specialist
 
 ---
 
 ## 🔧 Technical Skills
 
-### 🔐 Cybersecurity Expertise
+### 🔐 Core Security Skills
 | Area | Skills |
-|------|--------|
+|---|---|
+| **SOC Operations** | Log analysis, alert triage, detection engineering, incident reporting, MITRE ATT&CK mapping |
 | **Web Application Security** | OWASP Top 10, XSS, SQL Injection, CSRF, Insecure Deserialization |
-| **Vulnerability Assessment** | Security scanning, threat modeling, risk assessment |
-| **Penetration Testing** | Network reconnaissance, exploitation, post-exploitation analysis |
+| **Vulnerability Assessment & Pentesting** | Network reconnaissance, exploitation, post-exploitation analysis, risk assessment |
 | **Network Security** | Packet analysis, network enumeration, protocol analysis |
 
-### 🛠️ Security Tools & Frameworks
-- **Penetration Testing:** Burp Suite, Metasploit, Nmap, Wireshark
-- **OS & Environment:** Kali Linux, Linux hardening
-- **Development:** Python, Flask, SQL, HTML/CSS, JavaScript
-- **Automation & Scripting:** Python (security automation, custom tools)
+### 🛠️ Tools & Platforms
+- **SIEM / Detection:** Splunk, Sysmon, Atomic Red Team
+- **Pentesting:** Burp Suite, Metasploit, Nmap, Wireshark
+- **OS & Environment:** Kali Linux, Windows/Linux hardening, VirtualBox
+- **Development & Automation:** Python, Flask, SQL, Bash, JavaScript
 
 ### 💻 Programming Languages
 | Language | Proficiency | Applications |
-|----------|-------------|--------------|
+|---|---|---|
 | **Python** | Advanced | Security automation, vulnerability scanning, tool development |
-| **JavaScript** | Intermediate | Web application testing, DOM-based XSS analysis |
 | **SQL** | Intermediate | Database security, injection testing |
+| **JavaScript** | Intermediate | Web application testing, DOM-based XSS analysis |
 | **Bash/Shell** | Intermediate | Linux scripting, automation |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **SecureScan Pro** – Web Vulnerability Scanner
+### 🔹 Home SOC Lab: Detection & Triage
+*End-to-end SOC analyst workflow — from log ingestion to incident reporting*
+
+Self-built lab simulating a real SOC environment: Splunk as SIEM, Sysmon for endpoint telemetry, and Atomic Red Team for safe attack simulation. Each simulated attack is mapped to MITRE ATT&CK, backed by a working detection query, and documented as a full analyst-style incident report (Alert → Timeline → Log Evidence → Analysis → Verdict → Recommended Action).
+
+**Highlights:**
+- ✅ Custom Splunk SPL detections mapped to MITRE ATT&CK techniques
+- ✅ Full incident report writeups with real investigative reasoning
+- ✅ Reproducible lab-setup guides (Splunk, Sysmon, attack simulation)
+
+**Tech Stack:** `Splunk` `Sysmon` `Atomic Red Team` `VirtualBox` `MITRE ATT&CK`
+
+**Repo:** [soc-l1-project](https://github.com/adiiitya01/soc-l1-project)
+
+---
+
+### 🔹 SecureScan Pro — Web Vulnerability Scanner
 *Automated vulnerability detection and reporting system*
 
-**Overview:** A comprehensive Flask-based web application designed to identify common web vulnerabilities and generate detailed security reports.
+A Flask-based web application that identifies common web vulnerabilities and generates structured security reports — reducing manual reconnaissance time for early-stage assessments.
 
 **Key Features:**
-- ✅ **XSS Detection** – Identifies cross-site scripting vulnerabilities using pattern matching
-- ✅ **SQL Injection Scanning** – Detects error-based and time-based injection vulnerabilities
-- ✅ **Security Headers Validation** – Verifies implementation of critical HTTP security headers
-- ✅ **Cookie Security Analysis** – Checks for secure flags and SameSite attributes
-- ✅ **HTML Report Generation** – Produces professional, structured vulnerability reports
-- ✅ **Interactive Dashboard** – User-friendly interface for managing scans
+- ✅ XSS and SQL injection detection (pattern & behavior based)
+- ✅ Security header and cookie configuration validation
+- ✅ HTML report generation and an interactive scan dashboard
 
 **Tech Stack:** `Python` `Flask` `HTML5` `CSS3` `JavaScript` `SQL`
 
-**Impact:** Reduces manual vulnerability assessment time by automating initial reconnaissance and scanning.
-
 ---
 
-### 🔹 **Network Packet Sniffer**
-*Real-time network traffic analysis and monitoring tool*
+### 🔹 Network Packet Sniffer
+*Real-time network traffic capture and analysis*
 
-**Overview:** Passive network monitoring tool built with Python Scapy for capturing and analyzing network packets in real-time.
-
-**Capabilities:**
-- 📡 Real-time packet capture and analysis
-- 🔍 Protocol identification and categorization
-- 📊 IP-based traffic statistics and logging
-- 🎯 Selective packet filtering based on protocols
+Passive monitoring tool built with Python/Scapy for capturing and analyzing live network traffic — useful for reconnaissance and understanding network behavior during assessments.
 
 **Tech Stack:** `Python` `Scapy` `Network Analysis`
 
-**Use Case:** Ideal for network reconnaissance and understanding network behavior during penetration tests.
-
 ---
 
-### 🔹 **Multi-threaded Port Scanner**
-*High-performance reconnaissance tool for identifying open services*
+### 🔹 Multi-threaded Port Scanner
+*High-performance service discovery tool*
 
-**Overview:** Efficient port scanning utility leveraging Python threading for rapid service discovery.
-
-**Features:**
-- ⚡ Multi-threaded scanning for improved performance
-- 🎯 Accurate open port identification
-- 🔧 Service banner grabbing
-- 📋 Structured output reporting
+Multi-threaded port scanner with banner grabbing and structured output, built for fast, accurate reconnaissance during pentest engagements.
 
 **Tech Stack:** `Python` `Threading` `Socket Programming`
-
-**Application:** Essential for the reconnaissance phase of penetration testing engagements.
 
 ---
 
@@ -121,14 +116,13 @@ Cybersecurity specialist with hands-on expertise in **Web Application Security**
 
 ## 📚 Professional Development
 
-### Currently Learning:
-- 🔐 Advanced Web Application Security Assessment Techniques
-- 📋 OWASP Testing Guide v4.2 Methodologies
-- 🎯 Real-world VAPT Engagement Practices
-- 🤖 Security Automation with Python
-- 🛡️ Cloud Security Fundamentals (AWS/Azure)
+### Currently Learning
+- 🔎 SOC detection engineering & threat hunting
+- 📋 OWASP Testing Guide v4.2 methodologies
+- 🤖 Security automation with Python
+- ☁️ Cloud security fundamentals (AWS/Azure)
 
-### Certifications & Training:
+### Training & Coursework
 - OWASP Top 10 Web Security
 - Network Security Fundamentals
 - Python for Security Professionals
@@ -137,11 +131,11 @@ Cybersecurity specialist with hands-on expertise in **Web Application Security**
 
 ## 💼 Professional Goals
 
-My objective is to establish myself as a trusted **Cybersecurity professional** capable of:
-- Identifying and analyzing sophisticated security vulnerabilities
-- Designing and implementing effective security solutions
-- Automating security testing and monitoring processes
-- Contributing to organizational security posture improvements
+Working toward establishing myself as a reliable cybersecurity professional who can:
+- Detect and triage security incidents with sound analytical reasoning
+- Identify and assess real-world vulnerabilities in web applications and networks
+- Build automation that makes security teams faster and more consistent
+- Contribute measurably to an organization's overall security posture
 
 ---
 
@@ -150,18 +144,9 @@ My objective is to establish myself as a trusted **Cybersecurity professional** 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-udugade-28147b345">LinkedIn</a> • 
   <a href="https://github.com/adiiitya01">GitHub</a> • 
-  <a href="adityaudugade0@gmail.com">Email</a>
+  <a href="mailto:adityaudugade0@gmail.com">Email</a>
 </p>
 
----
-
-## ⭐ Support
-
-If you find my projects helpful or insightful, please consider:
-- ⭐ **Starring** relevant repositories
-- 🔗 **Sharing** with your network
-- 💬 **Providing feedback** for improvement
-
 <div align="center">
-  <p><strong>Let's build a more secure web together! 🚀</strong></p>
+  <p><strong>Let's build a more secure web together 🚀</strong></p>
 </div>
