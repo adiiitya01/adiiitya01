@@ -1,227 +1,281 @@
-<!-- ═════════════════════════ HEADER ═════════════════════════ -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Udugade&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOC%20Analyst%20%7C%20Web%20Application%20Security%20%7C%20VAPT&descSize=20&descAlignY=58" width="100%" alt="Aditya Udugade header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5a0,50:00b8d9,100:0b1220&height=260&section=header&text=ADITYA%20UDUGADE&fontSize=64&fontColor=ffffff&stroke=00f5a0&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20SOC%20Analyst%20%C2%B7%20Web%20App%20Security%20%C2%B7%20VAPT&descSize=22&descAlignY=62" width="100%" alt="Aditya Udugade" />
 
 <a href="https://github.com/adiiitya01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Detecting+threats+%E2%80%94+from+raw+log+to+verdict;Breaking+web+apps+%28ethically%29+to+secure+them;Building+Python+tools+that+make+security+faster;Mapping+every+attack+to+MITRE+ATT%26CK" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Security+Analyst+in+the+making;%24+detect+%E2%80%94+raw+log+%E2%86%92+verdict;%24+test+%E2%80%94+OWASP+Top+10+%C2%B7+VAPT;%24+build+%E2%80%94+Python+security+automation;%24+map+%E2%80%94+every+attack+to+MITRE+ATT%26CK" alt="typing" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://linkedin.com/in/aditya-udugade-28147b345"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:udugadeaditya350@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/adiiitya01/soc-l1-project"><img src="https://img.shields.io/badge/Flagship-SOC%20Lab-00C853?style=for-the-badge&logo=splunk&logoColor=white" alt="SOC Lab"/></a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to work"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00f5a0?style=for-the-badge&labelColor=0b1220" alt="status"/>
+<img src="https://img.shields.io/badge/FOCUS-BLUE%20TEAM%20%2B%20VAPT-00b8d9?style=for-the-badge&labelColor=0b1220" alt="focus"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-ff6b6b?style=for-the-badge&labelColor=0b1220" alt="location"/>
+<img src="https://komarev.com/ghpvc/?username=adiiitya01&label=PROFILE%20VIEWS&color=00b8d9&style=for-the-badge&labelColor=0b1220" alt="views"/>
+
+<br/><br/>
+
+<a href="#-about"><img src="https://img.shields.io/badge/ABOUT-0b1220?style=flat-square&logoColor=00f5a0&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-workflow"><img src="https://img.shields.io/badge/WORKFLOW-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/ARSENAL-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-analytics"><img src="https://img.shields.io/badge/ANALYTICS-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
 
 </div>
 
----
+<br/>
 
-## 🧭 Who I Am
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 🧭 About
 
-> **I document my security work the way a real analyst would — from raw log to verdict.**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
-I'm a cybersecurity professional focused on **SOC monitoring & incident triage**, **web application security**, and **VAPT**. I build practical detection and automation tools, and every project here is reproducible, mapped to **MITRE ATT&CK**, and written up like a real incident report.
+```bash
+aditya@secops:~$ cat profile.txt
+
+  NAME      : Aditya Udugade
+  ROLE      : SOC Analyst | Web Application Security Analyst | VAPT Specialist
+  STRENGTH  : Log analysis → alert triage → incident reporting
+  APPROACH  : Document every investigation from raw log to verdict
+  BUILDS    : Detection queries, scanners, recon tools (Python)
+  FRAMEWORK : MITRE ATT&CK · OWASP Top 10
+  OPEN_TO   : SOC Analyst (L1) · Security Analyst · VAPT / Pentest
+
+aditya@secops:~$ _
+```
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🎯 Open to roles
-- 🔎 **SOC Analyst (L1)**
-- 🛡️ **Cybersecurity / Security Analyst**
-- 🎯 **VAPT / Penetration Testing Specialist**
+### 🔵 DETECT
+**SOC & Blue Team**<br/>
+Splunk SPL detections, Sysmon telemetry, ATT&CK-mapped alerts and analyst-style incident reports.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### ⚡ What I bring
-- Structured alert triage & clear incident reporting
-- Hands-on SIEM detection with Splunk SPL
-- OWASP Top 10 testing mindset
-- Python automation for repetitive security work
+### 🔴 ATTACK
+**Web App & VAPT**<br/>
+OWASP Top 10, XSS, SQLi, CSRF, recon, exploitation and risk-rated findings.
+
+</td>
+<td align="center" width="33%">
+
+### 🟣 AUTOMATE
+**Security Engineering**<br/>
+Python and Flask tools that make assessments faster and more consistent.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🔄 My Analyst Workflow
+<!-- ═══════════════════════════ WORKFLOW ═══════════════════════════ -->
+## 🔄 Workflow
 
-```mermaid
-flowchart LR
-    A[🚨 Alert] --> B[🕒 Timeline]
-    B --> C[📄 Log Evidence]
-    C --> D[🧠 Analysis]
-    D --> E[⚖️ Verdict]
-    E --> F[🛠️ Recommended Action]
-    style A fill:#b71c1c,color:#fff
-    style E fill:#1b5e20,color:#fff
-    style F fill:#0d47a1,color:#fff
-```
-
-Every investigation in my SOC lab follows this exact format, so reports are consistent, auditable, and easy for a team to act on.
-
----
-
-## 🧰 Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A5CAA?style=for-the-badge&logo=metasploit&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+**Every investigation I write follows the same six-step format — consistent, auditable, actionable.**
+
+```mermaid
+flowchart LR
+    A["🚨 ALERT"] --> B["🕒 TIMELINE"]
+    B --> C["📄 LOG EVIDENCE"]
+    C --> D["🧠 ANALYSIS"]
+    D --> E["⚖️ VERDICT"]
+    E --> F["🛠️ ACTION"]
+    style A fill:#b71c1c,stroke:#ff6b6b,color:#fff
+    style B fill:#0b1220,stroke:#00b8d9,color:#fff
+    style C fill:#0b1220,stroke:#00b8d9,color:#fff
+    style D fill:#0b1220,stroke:#00b8d9,color:#fff
+    style E fill:#00695c,stroke:#00f5a0,color:#fff
+    style F fill:#0d47a1,stroke:#00b8d9,color:#fff
+```
 
 </div>
 
-| Domain | What I do |
+<br/>
+
+<!-- ═══════════════════════════ ARSENAL ═══════════════════════════ -->
+## 🧰 Tech Arsenal
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
+
+<div align="center">
+
+**Languages & Development**<br/>
+<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,bash,sqlite&theme=dark" alt="languages"/>
+
+**Security & Environment**<br/>
+<img src="https://skillicons.dev/icons?i=kali,linux,windows,wireshark,burpsuite,metasploit,splunk,virtualbox&theme=dark" alt="security tools"/>
+
+<sub>Nmap · Sysmon · Atomic Red Team · Scapy</sub>
+
+</div>
+
+<br/>
+
+| 🛡️ Domain | 🔧 Capabilities |
 |:--|:--|
-| 🔎 **SOC Operations** | Log analysis · alert triage · detection engineering · incident reporting · MITRE ATT&CK mapping |
-| 🌐 **Web App Security** | OWASP Top 10 · XSS · SQL Injection · CSRF · Insecure Deserialization |
-| 🎯 **VAPT** | Recon · exploitation · post-exploitation analysis · risk assessment |
-| 📡 **Network Security** | Packet analysis · enumeration · protocol analysis |
-| 🤖 **Automation** | Python tooling for scanning, reporting and detection workflows |
+| **SOC Operations** | Log analysis · alert triage · detection engineering · incident reporting · MITRE ATT&CK mapping |
+| **Web Application Security** | OWASP Top 10 · XSS · SQL Injection · CSRF · Insecure Deserialization |
+| **Vulnerability Assessment & Pentesting** | Network recon · exploitation · post-exploitation analysis · risk assessment |
+| **Network Security** | Packet analysis · enumeration · protocol analysis |
 
-**SIEM / Detection:** `Splunk` `Sysmon` `Atomic Red Team` &nbsp;|&nbsp; **Pentesting:** `Burp Suite` `Metasploit` `Nmap` `Wireshark` &nbsp;|&nbsp; **Environment:** `Kali Linux` `Windows/Linux hardening` `VirtualBox`
+<br/>
 
----
-
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Featured Projects
 
-### 🥇 Home SOC Lab — Detection & Triage
-[![Repo](https://img.shields.io/badge/View%20Repo-soc--l1--project-00C853?style=flat-square&logo=github)](https://github.com/adiiitya01/soc-l1-project)
-![Splunk](https://img.shields.io/badge/Splunk-000?style=flat-square&logo=splunk)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows)
-![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-C62828?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6F00?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
-A self-built lab that simulates a real SOC: **Splunk** as SIEM, **Sysmon** for endpoint telemetry, and **Atomic Red Team** for safe attack simulation.
+### 🥇 Home SOC Lab — Detection & Triage
+
+<div align="center">
+  <a href="https://github.com/adiiitya01/soc-l1-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adiiitya01&repo=soc-l1-project&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=00f5a0&icon_color=00b8d9" alt="soc-l1-project"/>
+  </a>
+</div>
+
+A self-built lab that simulates a real SOC environment, end to end.
 
 ```text
-Attack Simulation ──► Sysmon Telemetry ──► Splunk Ingestion ──► SPL Detection ──► Incident Report
- (Atomic Red Team)     (endpoint logs)       (SIEM)            (ATT&CK-mapped)   (analyst-style)
+ ┌──────────────────┐   ┌─────────────┐   ┌──────────┐   ┌───────────────┐   ┌─────────────────┐
+ │ Atomic Red Team  │ → │   Sysmon    │ → │  Splunk  │ → │  SPL Detection │ → │ Incident Report │
+ │ attack simulation│   │ endpoint log│   │   SIEM   │   │  ATT&CK-mapped │   │ analyst-style   │
+ └──────────────────┘   └─────────────┘   └──────────┘   └───────────────┘   └─────────────────┘
 ```
 
 - ✅ Custom **Splunk SPL detections** mapped to MITRE ATT&CK techniques
 - ✅ Full **incident reports**: Alert → Timeline → Log Evidence → Analysis → Verdict → Action
 - ✅ **Reproducible setup guides** for Splunk, Sysmon and attack simulation
 
----
+`Splunk` `Sysmon` `Atomic Red Team` `VirtualBox` `MITRE ATT&CK`
+
+<br/>
 
 ### 🥈 SecureScan Pro — Web Vulnerability Scanner
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010-000?style=flat-square&logo=owasp)
 
-A Flask-based scanner that identifies common web vulnerabilities and generates structured reports — cutting manual recon time for early-stage assessments.
+A Flask-based scanner that identifies common web vulnerabilities and generates structured security reports, cutting manual recon time for early-stage assessments.
 
-- ✅ **XSS & SQL injection** detection (pattern- and behavior-based)
-- ✅ **Security header & cookie** configuration validation
-- ✅ **HTML report generation** with an interactive scan dashboard
+| Feature | Detail |
+|:--|:--|
+| 💉 **Injection detection** | XSS and SQL injection (pattern & behavior based) |
+| 🍪 **Config validation** | Security headers and cookie settings |
+| 📊 **Reporting** | HTML report generation and interactive scan dashboard |
 
----
+`Python` `Flask` `HTML5` `CSS3` `JavaScript` `SQL`
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🥉 Network Packet Sniffer
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-444?style=flat-square)
+Real-time passive capture and analysis of live network traffic, useful for recon and understanding network behavior during assessments.
 
-Real-time passive capture and analysis of live network traffic, built with Python and Scapy — useful for recon and understanding network behavior during assessments.
+`Python` `Scapy` `Network Analysis`
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ Multi-threaded Port Scanner
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Sockets](https://img.shields.io/badge/Sockets-444?style=flat-square)
+Fast service discovery with banner grabbing and structured output, built for accurate recon during pentest engagements.
 
-Fast service-discovery tool with **banner grabbing** and structured output, designed for accurate recon during pentest engagements.
+`Python` `Threading` `Socket Programming`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🗺️ Skills Map: Where I Fit on a Security Team
+<!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
+## 📊 Analytics
 
-| Team Function | My Contribution |
-|:--|:--|
-| 🔵 **Blue Team / SOC** | Triage alerts, write ATT&CK-mapped detections, document incidents clearly |
-| 🔴 **Red Team / VAPT** | Recon, web app testing, exploitation and risk-rated reporting |
-| 🟣 **Security Engineering** | Python tooling and automation that makes teams faster and more consistent |
-
----
-
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adiiitya01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=adiiitya01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adiiitya01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=00f5a0&icon_color=00b8d9&count_private=true" alt="stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=adiiitya01&theme=tokyonight&hide_border=true&background=0b1220&ring=00f5a0&fire=00b8d9&currStreakLabel=00f5a0" alt="streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiitya01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=00f5a0" alt="languages"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiiitya01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiiitya01&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiiitya01&theme=tokyo-night&hide_border=true&area=true&bg_color=0b1220&color=00f5a0&line=00b8d9&point=ffffff" width="96%" alt="activity graph"/>
 
 </div>
 
----
+<br/>
 
+<!-- ═══════════════════════════ LEARNING ═══════════════════════════ -->
 ## 📚 Currently Leveling Up
 
-```yaml
-focus_areas:
-  - SOC detection engineering & threat hunting
-  - OWASP Testing Guide v4.2 methodology
-  - Security automation with Python
-  - Cloud security fundamentals (AWS / Azure)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
-training:
-  - OWASP Top 10 Web Security
-  - Network Security Fundamentals
-  - Python for Security Professionals
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🎯 Focus Areas**
+- 🔎 SOC detection engineering & threat hunting
+- 📋 OWASP Testing Guide v4.2
+- 🤖 Security automation with Python
+- ☁️ Cloud security (AWS / Azure)
 
+</td>
+<td width="50%" valign="top">
+
+**🎓 Training & Coursework**
+- OWASP Top 10 Web Security
+- Network Security Fundamentals
+- Python for Security Professionals
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ MISSION ═══════════════════════════ -->
 ## 🎯 Mission
 
-I'm working to become a reliable cybersecurity professional who can:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
-- 🔎 **Detect and triage** incidents with sound analytical reasoning
-- 🛡️ **Identify and assess** real-world vulnerabilities in web apps and networks
-- 🤖 **Build automation** that makes security teams faster and more consistent
-- 📈 **Contribute measurably** to an organization's security posture
+> *Become a reliable cybersecurity professional who can:*
 
----
+| | |
+|:--|:--|
+| 🔎 **Detect & triage** | Incidents with sound analytical reasoning |
+| 🛡️ **Identify & assess** | Real-world vulnerabilities in web apps and networks |
+| 🤖 **Automate** | Build tools that make security teams faster and more consistent |
+| 📈 **Contribute** | Measurably to an organization's security posture |
 
-## 🤝 Let's Connect
+<br/>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+## 🤝 Contact
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
 <div align="center">
 
-**Hiring for a SOC, security analyst or VAPT role? I'd love to talk.**
+### Hiring for a SOC, Security Analyst or VAPT role? Let's talk.
 
-<a href="https://linkedin.com/in/aditya-udugade-28147b345"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:udugadeaditya350@gmail.com"><img src="https://img.shields.io/badge/Email-udugadeaditya350%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/aditya-udugade-28147b345"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:udugadeaditya350@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/adiiitya01"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-*"Let's build a more secure web."* 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00B8D9&center=true&vCenter=true&width=520&lines=Let's+build+a+more+secure+web+%F0%9F%9A%80" alt="tagline"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:00b8d9,100:00f5a0&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
