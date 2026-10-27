@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5a0,50:00b8d9,100:0b1220&height=260&section=header&text=ADITYA%20UDUGADE&fontSize=64&fontColor=ffffff&stroke=00f5a0&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20SOC%20Analyst%20%C2%B7%20Web%20App%20Security%20%C2%B7%20VAPT&descSize=22&descAlignY=62" width="100%" alt="Aditya Udugade" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5a0,50:00b8d9,100:0b1220&height=270&section=header&text=ADITYA%20UDUGADE&fontSize=64&fontColor=ffffff&stroke=00f5a0&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%F0%9F%9B%A1%EF%B8%8F%20SOC%20Analyst%20%C2%B7%20Web%20App%20Security%20%C2%B7%20VAPT%20Specialist&descSize=22&descAlignY=62" width="100%" alt="Aditya Udugade" />
 
 <a href="https://github.com/adiiitya01">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Security+Analyst+in+the+making;%24+detect+%E2%80%94+raw+log+%E2%86%92+verdict;%24+test+%E2%80%94+OWASP+Top+10+%C2%B7+VAPT;%24+build+%E2%80%94+Python+security+automation;%24+map+%E2%80%94+every+attack+to+MITRE+ATT%26CK" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=800&height=50&lines=%24+whoami+%E2%86%92+Security+Analyst+in+the+making;%24+detect+%E2%80%94+raw+log+%E2%86%92+verdict;%24+test+%E2%80%94+OWASP+Top+10+%C2%B7+VAPT;%24+build+%E2%80%94+Python+security+automation;%24+map+%E2%80%94+every+attack+to+MITRE+ATT%26CK" alt="typing" />
 </a>
 
 <br/><br/>
@@ -16,7 +16,8 @@
 
 <br/><br/>
 
-<a href="#-about"><img src="https://img.shields.io/badge/ABOUT-0b1220?style=flat-square&logoColor=00f5a0&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
+<a href="#-why-hire-me"><img src="https://img.shields.io/badge/WHY%20ME-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
 <a href="#-workflow"><img src="https://img.shields.io/badge/WORKFLOW-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
 <a href="#-tech-arsenal"><img src="https://img.shields.io/badge/ARSENAL-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0b1220?style=flat-square&labelColor=0b1220&color=00f5a0"/></a>
@@ -27,46 +28,96 @@
 
 <br/>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-## 🧭 About
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+## 🧭 About Me
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### 👋 Hi, I'm Aditya
+
+I'm a cybersecurity professional who learns by **building, breaking and documenting**. My work spans three connected areas:
+
+🔵 **SOC monitoring & incident triage** — reading logs, validating alerts and writing clear verdicts
+
+🔴 **Web application security & VAPT** — finding real vulnerabilities the way an attacker would, then reporting them the way a defender needs
+
+🟣 **Security automation** — turning repetitive analyst work into Python tools
+
+I don't just run tools. Every project I publish is **reproducible, mapped to MITRE ATT&CK, and written up like a real incident report** — from raw log to verdict — so a hiring manager can see exactly how I think.
+
+> 💡 *Security is not about knowing every tool. It's about asking the right question of the evidence.*
+
+</td>
+<td width="38%" valign="top">
 
 ```bash
 aditya@secops:~$ cat profile.txt
 
-  NAME      : Aditya Udugade
-  ROLE      : SOC Analyst | Web Application Security Analyst | VAPT Specialist
-  STRENGTH  : Log analysis → alert triage → incident reporting
-  APPROACH  : Document every investigation from raw log to verdict
-  BUILDS    : Detection queries, scanners, recon tools (Python)
-  FRAMEWORK : MITRE ATT&CK · OWASP Top 10
-  OPEN_TO   : SOC Analyst (L1) · Security Analyst · VAPT / Pentest
+NAME     : Aditya Udugade
+ROLE     : SOC Analyst
+           Web App Security Analyst
+           VAPT Specialist
+FRAMEWORK: MITRE ATT&CK
+           OWASP Top 10
+SIEM     : Splunk + Sysmon
+LANG     : Python · SQL · JS · Bash
+OPEN_TO  : SOC L1 · Security
+           Analyst · Pentest
 
 aditya@secops:~$ _
 ```
 
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎯%20Targeting-SOC%20Analyst%20(L1)-00f5a0?style=for-the-badge&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/🛡️%20Also-Security%20Analyst-00b8d9?style=for-the-badge&labelColor=0b1220"/>
+<img src="https://img.shields.io/badge/🎯%20Also-VAPT%20Specialist-ff6b6b?style=for-the-badge&labelColor=0b1220"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ WHY HIRE ME ═══════════════════════════ -->
+## ⭐ Why Hire Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🔵 DETECT
-**SOC & Blue Team**<br/>
-Splunk SPL detections, Sysmon telemetry, ATT&CK-mapped alerts and analyst-style incident reports.
-
-</td>
-<td align="center" width="33%">
-
-### 🔴 ATTACK
-**Web App & VAPT**<br/>
-OWASP Top 10, XSS, SQLi, CSRF, recon, exploitation and risk-rated findings.
+### 🔎
+**Analyst Mindset**<br/>
+<sub>Alert → Timeline → Evidence → Analysis → Verdict → Action. Every time.</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🟣 AUTOMATE
-**Security Engineering**<br/>
-Python and Flask tools that make assessments faster and more consistent.
+### 🧪
+**Hands-On Lab**<br/>
+<sub>A working SOC lab with Splunk, Sysmon and real attack simulation.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🗺️
+**ATT&CK Mapped**<br/>
+<sub>Detections tied to MITRE ATT&CK techniques, not guesswork.</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**Builder**<br/>
+<sub>I write my own scanners, sniffers and automation in Python.</sub>
 
 </td>
 </tr>
@@ -121,6 +172,17 @@ flowchart LR
 
 <br/>
 
+### 📈 Programming Proficiency
+
+| Language | Level | Used For |
+|:--|:--|:--|
+| **Python** | ![](https://img.shields.io/badge/ADVANCED-████████░-00f5a0?style=flat-square&labelColor=0b1220) | Security automation, vulnerability scanning, tool development |
+| **SQL** | ![](https://img.shields.io/badge/INTERMEDIATE-██████░░░-00b8d9?style=flat-square&labelColor=0b1220) | Database security, injection testing |
+| **JavaScript** | ![](https://img.shields.io/badge/INTERMEDIATE-██████░░░-00b8d9?style=flat-square&labelColor=0b1220) | Web app testing, DOM-based XSS analysis |
+| **Bash / Shell** | ![](https://img.shields.io/badge/INTERMEDIATE-██████░░░-00b8d9?style=flat-square&labelColor=0b1220) | Linux scripting, automation |
+
+<br/>
+
 | 🛡️ Domain | 🔧 Capabilities |
 |:--|:--|
 | **SOC Operations** | Log analysis · alert triage · detection engineering · incident reporting · MITRE ATT&CK mapping |
@@ -135,6 +197,26 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5a0,100:00b8d9&height=3&section=header" width="100%" alt="divider"/>
 
+### 🔨 Currently Building
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-ffb300?style=for-the-badge&labelColor=0b1220"/>
+
+<!-- ✏️ EDIT THIS CARD: replace every [bracketed] field with your real project details -->
+
+> ### 🧩 [Your Current Project Name]
+> **[One-line description: what problem it solves and who it's for.]**
+>
+> | | |
+> |:--|:--|
+> | 🎯 **Goal** | [What this project will achieve] |
+> | ⚙️ **Approach** | [How you are building it / detection or testing method] |
+> | 🧪 **Progress** | [What works today — e.g. modules finished, detections written] |
+> | 🔜 **Next** | [Next milestone] |
+>
+> `[Tech 1]` `[Tech 2]` `[Tech 3]`  ·  [🔗 View Repo](https://github.com/adiiitya01)
+
+<br/>
+
 ### 🥇 Home SOC Lab — Detection & Triage
 
 <div align="center">
@@ -146,10 +228,10 @@ flowchart LR
 A self-built lab that simulates a real SOC environment, end to end.
 
 ```text
- ┌──────────────────┐   ┌─────────────┐   ┌──────────┐   ┌───────────────┐   ┌─────────────────┐
- │ Atomic Red Team  │ → │   Sysmon    │ → │  Splunk  │ → │  SPL Detection │ → │ Incident Report │
- │ attack simulation│   │ endpoint log│   │   SIEM   │   │  ATT&CK-mapped │   │ analyst-style   │
- └──────────────────┘   └─────────────┘   └──────────┘   └───────────────┘   └─────────────────┘
+ ┌──────────────────┐   ┌─────────────┐   ┌──────────┐   ┌────────────────┐   ┌─────────────────┐
+ │ Atomic Red Team  │ → │   Sysmon    │ → │  Splunk  │ → │ SPL Detection  │ → │ Incident Report │
+ │ attack simulation│   │ endpoint log│   │   SIEM   │   │ ATT&CK-mapped  │   │ analyst-style   │
+ └──────────────────┘   └─────────────┘   └──────────┘   └────────────────┘   └─────────────────┘
 ```
 
 - ✅ Custom **Splunk SPL detections** mapped to MITRE ATT&CK techniques
